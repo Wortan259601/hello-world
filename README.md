@@ -1,2 +1,2 @@
-# hello-world
+# test
 Nauka używania gita i githuba
